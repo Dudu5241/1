@@ -1,7 +1,7 @@
 {
   "id": "./",
-  "name": "Drzewo rodzinne",
-  "short_name": "Drzewo",
+  "name": "Drzewo genealogiczne",
+  "short_name": "Drzewo genealogiczne",
   "description": "Drzewo genealogiczne, działa offline",
   "start_url": "./",
   "scope": "./",
